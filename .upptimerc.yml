@@ -23,7 +23,7 @@ status-website:
   introMessage: "View the about page for more info."
   navbar:
     - title: Status
-      href: /
+      href: https://ethanrusz.github.io/status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: About
