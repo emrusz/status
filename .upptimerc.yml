@@ -19,8 +19,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Ruszdev Status
-  introTitle: "Status page for Ruszdev services."
-  introMessage: "You can contact me for more info at my site below."
+  introTitle: "Current statuses for my services."
+  introMessage: "View the about page for more info."
   navbar:
     - title: Status
       href: /
