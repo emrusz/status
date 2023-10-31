@@ -9,8 +9,13 @@ sites:
     url: https://horseplay.space
   - name: Nextcloud
     url: https://cloud.beans.team
+  - name: Piped
+    url: https://piped.beans.team
   - name: "rusz.dev"
     url: https://rusz.dev
+
+assignees:
+  - ethanrusz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,8 +24,9 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Ruszdev Status
-  introTitle: "Current statuses for my services."
-  introMessage: "View the about page for more info."
+  introTitle: "Current beans.team services."
+  introMessage: "View the about page for more information."
+  theme: dark
   navbar:
     - title: Status
       href: https://ethanrusz.github.io/status

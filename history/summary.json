@@ -54,6 +54,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Piped",
+    "url": "https://piped.beans.team",
+    "icon": "https://icons.duckduckgo.com/ip3/piped.beans.team.ico",
+    "slug": "piped",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "rusz.dev",
     "url": "https://rusz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/rusz.dev.ico",
