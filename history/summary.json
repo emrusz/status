@@ -22,18 +22,20 @@
     "url": "https://horseplay.space",
     "icon": "https://icons.duckduckgo.com/ip3/horseplay.space.ico",
     "slug": "minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 307,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303,
-    "dailyMinutesDown": {}
+    "time": 283,
+    "timeDay": 263,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
+    "dailyMinutesDown": {
+      "2023-10-31": 0
+    }
   },
   {
     "name": "Nextcloud",
