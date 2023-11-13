@@ -13,6 +13,8 @@ sites:
     url: https://cloud.beans.team
   - name: Piped
     url: https://piped.beans.team
+  - name: Rallly
+    url: https://rallly.beans.team
   - name: "rusz.dev"
     url: https://rusz.dev
 
