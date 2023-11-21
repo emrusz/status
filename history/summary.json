@@ -4,28 +4,30 @@
     "url": "https://grocy.beans.team",
     "icon": "https://icons.duckduckgo.com/ip3/grocy.beans.team.ico",
     "slug": "grocy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 761,
     "timeDay": 379,
     "timeWeek": 751,
     "timeMonth": 761,
     "timeYear": 761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-21": 2
+    }
   },
   {
     "name": "LanguageTool",
     "url": "https://lt.beans.team/v2/languages",
     "icon": "https://icons.duckduckgo.com/ip3/lt.beans.team.ico",
     "slug": "language-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 415,
@@ -34,6 +36,7 @@
     "timeMonth": 415,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2023-11-21": 1,
       "2023-11-01": 35
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://horseplay.space",
     "icon": "https://icons.duckduckgo.com/ip3/horseplay.space.ico",
     "slug": "minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
@@ -54,6 +57,7 @@
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2023-11-21": 0,
       "2023-11-01": 34,
       "2023-10-31": 44
     }
