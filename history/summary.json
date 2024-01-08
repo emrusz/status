@@ -4,18 +4,20 @@
     "url": "https://git.beans.team",
     "icon": "https://icons.duckduckgo.com/ip3/git.beans.team.ico",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 289,
-    "timeWeek": 342,
-    "timeMonth": 394,
-    "timeYear": 394,
-    "dailyMinutesDown": {}
+    "time": 397,
+    "timeDay": 334,
+    "timeWeek": 353,
+    "timeMonth": 397,
+    "timeYear": 397,
+    "dailyMinutesDown": {
+      "2024-01-08": 0
+    }
   },
   {
     "name": "Grocy",
