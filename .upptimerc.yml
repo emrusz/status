@@ -19,6 +19,8 @@ sites:
     url: https://rallly.beans.team
   - name: "rusz.dev"
     url: https://rusz.dev
+  - name: Vikunja
+    url: https://todo.beans.team
 
 assignees:
   - ethanrusz

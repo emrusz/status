@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lt.beans.team.ico",
     "slug": "language-tool",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 411,
     "timeDay": 435,
     "timeWeek": 335,
@@ -171,6 +171,24 @@
     "timeWeek": 124,
     "timeMonth": 131,
     "timeYear": 141,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Vikunja",
+    "url": "https://todo.beans.team",
+    "icon": "https://icons.duckduckgo.com/ip3/todo.beans.team.ico",
+    "slug": "vikunja",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
