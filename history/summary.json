@@ -142,10 +142,10 @@
     "url": "https://rallly.beans.team",
     "icon": "https://icons.duckduckgo.com/ip3/rallly.beans.team.ico",
     "slug": "rallly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 510,
@@ -154,6 +154,7 @@
     "timeMonth": 393,
     "timeYear": 510,
     "dailyMinutesDown": {
+      "2024-01-26": 1,
       "2023-12-01": 162,
       "2023-11-29": 18,
       "2023-11-22": 66
@@ -182,9 +183,9 @@
     "url": "https://todo.beans.team",
     "icon": "https://icons.duckduckgo.com/ip3/todo.beans.team.ico",
     "slug": "vikunja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,6 +194,8 @@
     "timeWeek": 225,
     "timeMonth": 234,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   }
 ]
