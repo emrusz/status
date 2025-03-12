@@ -8,7 +8,7 @@ sites:
   - name: Grocy
     url: https://grocy.beans.team
   - name: LanguageTool
-    url: https://lt.beans.team/v2/languages
+    url: https://lt.rusz.dev/v2/languages
   - name: Minecraft
     url: https://horseplay.space
   - name: Nextcloud
@@ -16,11 +16,11 @@ sites:
   - name: Piped
     url: https://piped.beans.team
   - name: Rallly
-    url: https://rallly.beans.team
+    url: https://rallly.rusz.dev
   - name: "rusz.dev"
     url: https://rusz.dev
   - name: Vikunja
-    url: https://todo.beans.team
+    url: https://todo.rusz.dev
 
 assignees:
   - emrusz
@@ -32,7 +32,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Ruszdev Status
-  introTitle: "Current rusz.dev and beans.team services."
+  introTitle: "Homelab services provided by rusz.dev."
   introMessage: "View the about page for more information."
   theme: dark
   navbar:
