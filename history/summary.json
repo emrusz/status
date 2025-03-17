@@ -55,7 +55,7 @@
   {
     "name": "LanguageTool",
     "url": "https://lt.rusz.dev/v2/languages",
-    "icon": "https://icons.duckduckgo.com/ip3/lt.rusz.dev.ico",
+    "icon": "https://raw.githubusercontent.com/emrusz/status/refs/heads/master/assets/icons/lt-icon.png",
     "slug": "language-tool",
     "status": "up",
     "uptime": "99.89%",
@@ -98,7 +98,7 @@
   {
     "name": "Minecraft",
     "url": "https://horseplay.space",
-    "icon": "https://icons.duckduckgo.com/ip3/horseplay.space.ico",
+    "icon": "https://raw.githubusercontent.com/emrusz/status/refs/heads/master/assets/icons/minecraft-icon.png",
     "slug": "minecraft",
     "status": "up",
     "uptime": "99.78%",
