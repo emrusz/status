@@ -9,6 +9,8 @@ sites:
     url: https://grocy.beans.team
   - name: LanguageTool
     url: https://lt.rusz.dev/v2/languages
+  - name: Matrix
+    url: https://synapse.rusz.dev
   - name: Minecraft
     url: https://horseplay.space
   - name: Nextcloud
@@ -28,16 +30,16 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.rusz.dev
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Ruszdev Status
+  name: "rusz.dev status"
   introTitle: "Homelab services provided by rusz.dev."
   introMessage: "View the about page for more information."
   theme: dark
   navbar:
     - title: Status
-      href: https://emrusz.github.io/status
+      href: https://status.rusz.dev
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: About
